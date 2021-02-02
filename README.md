@@ -3,8 +3,6 @@
 ## ## creates H2
 ### ### creates H3
 
-***
-
 ![Alt text](image direct URL "message after hovering")
 
 ![image](https://learncodeonline.in/mascot.png "message after hovering") 
@@ -18,6 +16,8 @@ console.log(`Your value is ${imZooel}`);
 Use `for` loop instead of `do while` loop
 
 >Keep smiling and work harder
+
+***
 
 This is a normal text. Above horizontal bar is made by (three asterisk)
 
