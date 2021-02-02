@@ -7,6 +7,8 @@ This is a normal text
 
 **To make bold, just add ** after & before the text**
 
+- To make bullet or ul use (hyphen) at the starting
+
 ~~To do strikethrough just add (double tilde sign) after & before the text~~
 
 [Click me](https://website.URL "message after hovering") [Click me](website URL "message after hovering")
