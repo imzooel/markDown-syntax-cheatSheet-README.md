@@ -13,3 +13,11 @@ This is a normal text
 ![image](https://learncodeonline.in/mascot.png "message after hovering") 
 
 ![Alt text](image direct URL "message after hovering")
+
+Use `for` loop
+
+```Javascript
+let imZooel = 0 * 2;
+console.log(`Your value is` ${imZooel});
+
+```
