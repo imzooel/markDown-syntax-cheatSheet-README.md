@@ -5,7 +5,7 @@
 
 ***
 
-This is a normal text
+This is a normal text. Above horizontal bar is made by (three asterisk)
 
 **To make bold, just add ** after & before the text**
 
