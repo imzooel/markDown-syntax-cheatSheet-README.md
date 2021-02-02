@@ -23,3 +23,5 @@ console.log(`Your value is ${imZooel}`);
 ```
 
 Use `for` loop instead of `do while` loop
+
+>Keep smiling and work harder
